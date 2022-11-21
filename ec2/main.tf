@@ -19,6 +19,7 @@ cidr_block = "10.0.0.0/16"
 tags={
  Name = "MyCustomVPC"
  project = "P001"
+ owner = "Chandra"
 }
 
 }
