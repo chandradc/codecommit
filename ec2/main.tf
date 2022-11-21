@@ -20,6 +20,7 @@ tags={
  Name = "MyCustomVPC"
  project = "P001"
  owner = "Chandra"
+ city = "Chennai"
 }
 
 }
